@@ -8,7 +8,7 @@
 
 ## General Info:
 
-These are a series of challenges provided by Codeacademy of its course about C# where I worked with variables, loops, functions or classes.
+This is a series of challenges provided by Codeacademy of its course about C# where I worked with variables, loops, functions or classes.
 
 ## Technologies:
 
