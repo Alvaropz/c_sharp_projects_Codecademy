@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Álvaro\\Desktop\\Coding\\IT Career Switch\\10 . Course - Learn C#\\6. Learn C# - Classes and Objects\\MyCode\\6.5\\6.5.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Álvaro\\Desktop\\Coding\\IT Career Switch\\10 . Course - Learn C#\\6. Learn C# - Classes and Objects\\MyCode\\6.5\\6.5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Álvaro\\Desktop\\Coding\\IT Career Switch\\10 . Course - Learn C#\\6. Learn C# - Classes and Objects\\MyCode\\6.5\\6.5.csproj",
+        "projectName": "6.5",
+        "projectPath": "C:\\Users\\Álvaro\\Desktop\\Coding\\IT Career Switch\\10 . Course - Learn C#\\6. Learn C# - Classes and Objects\\MyCode\\6.5\\6.5.csproj",
+        "packagesPath": "C:\\Users\\Álvaro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Álvaro\\Desktop\\Coding\\IT Career Switch\\10 . Course - Learn C#\\6. Learn C# - Classes and Objects\\MyCode\\6.5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Álvaro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

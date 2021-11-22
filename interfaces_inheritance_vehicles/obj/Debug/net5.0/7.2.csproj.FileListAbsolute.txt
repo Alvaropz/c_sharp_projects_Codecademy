@@ -1,0 +1,16 @@
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\bin\Debug\net5.0\7.2.exe
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\bin\Debug\net5.0\7.2.deps.json
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\bin\Debug\net5.0\7.2.runtimeconfig.json
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\bin\Debug\net5.0\7.2.runtimeconfig.dev.json
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\bin\Debug\net5.0\7.2.dll
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\bin\Debug\net5.0\ref\7.2.dll
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\bin\Debug\net5.0\7.2.pdb
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\obj\Debug\net5.0\7.2.csproj.AssemblyReference.cache
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\obj\Debug\net5.0\7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\obj\Debug\net5.0\7.2.AssemblyInfoInputs.cache
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\obj\Debug\net5.0\7.2.AssemblyInfo.cs
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\obj\Debug\net5.0\7.2.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\obj\Debug\net5.0\7.2.dll
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\obj\Debug\net5.0\ref\7.2.dll
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\obj\Debug\net5.0\7.2.pdb
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\7. Learn C# - Interfaces and Inheritance\MyCode\7.2\obj\Debug\net5.0\7.2.genruntimeconfig.cache

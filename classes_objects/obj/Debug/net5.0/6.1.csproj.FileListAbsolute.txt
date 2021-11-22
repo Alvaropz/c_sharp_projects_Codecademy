@@ -1,0 +1,16 @@
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\bin\Debug\net5.0\6.1.exe
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\bin\Debug\net5.0\6.1.deps.json
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\bin\Debug\net5.0\6.1.runtimeconfig.json
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\bin\Debug\net5.0\6.1.runtimeconfig.dev.json
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\bin\Debug\net5.0\6.1.dll
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\bin\Debug\net5.0\ref\6.1.dll
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\bin\Debug\net5.0\6.1.pdb
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\obj\Debug\net5.0\6.1.csproj.AssemblyReference.cache
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\obj\Debug\net5.0\6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\obj\Debug\net5.0\6.1.AssemblyInfoInputs.cache
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\obj\Debug\net5.0\6.1.AssemblyInfo.cs
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\obj\Debug\net5.0\6.1.csproj.CoreCompileInputs.cache
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\obj\Debug\net5.0\6.1.dll
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\obj\Debug\net5.0\ref\6.1.dll
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\obj\Debug\net5.0\6.1.pdb
+C:\Users\Álvaro\Desktop\Coding\IT Career Switch\10 . Course - Learn C#\6. Learn C# - Classes and Objects\MyCode\6.1\6.1.8\obj\Debug\net5.0\6.1.genruntimeconfig.cache
